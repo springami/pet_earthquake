@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+#test branch1_acer
+=======
 #test branch2_acer1
+>>>>>>> cc589b5113550206279c4339afebcae79e088006
 apache-airflow==2.10.5
 duckdb==1.2.2
