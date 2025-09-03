@@ -5,6 +5,7 @@ __pycache__/
 
 #folders
 logs
+data
 
 # C extensions
 *.so
