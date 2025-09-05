@@ -8,6 +8,7 @@ logs
 data
 .venv
 cred.py
+pet_earthquake.zip
 
 # C extensions
 *.so
