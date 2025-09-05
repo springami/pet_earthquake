@@ -9,6 +9,7 @@ data/
 .venv
 cred.py
 pet_earthquake.zip
+minioadmin.txt
 
 # C extensions
 *.so
