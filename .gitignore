@@ -6,6 +6,8 @@ __pycache__/
 #folders
 logs
 data/
+config/
+plugins/
 .venv
 cred.py
 pet_earthquake.zip
