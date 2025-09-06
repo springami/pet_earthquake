@@ -4,17 +4,10 @@ __pycache__/
 *$py.class
 
 #folders
-<<<<<<< HEAD
 logs/*
 data/*
 config/*
 plugins/*
-=======
-logs
-data/
-config/
-plugins/
->>>>>>> ce667008c525fa33324e9a6c1c50418e2fdccd4a
 .venv
 cred.py
 pet_earthquake.zip
